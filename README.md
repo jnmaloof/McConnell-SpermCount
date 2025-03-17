@@ -1,2 +1,2 @@
-# MCConnell-SpermCount
+# McConnell-SpermCount
 Analysis for Fern sperm viability
